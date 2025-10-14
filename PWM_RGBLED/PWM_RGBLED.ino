@@ -1,5 +1,5 @@
 /*
-DMP - Sketching mit Hardware WS2425
+DMP - Sketching mit Hardware WS2526
 -Eine LED pulsieren lassen
 Marcos Martinez
 */
