@@ -1,6 +1,6 @@
 /*
  * Sketching mit Hardware
-DMP - Vertiefung Medieninformatik 2 - WS2425 - Sketching mit Hardware 
+DMP - Vertiefung Medieninformatik 2 - WS2526 - Sketching mit Hardware 
 
 - Simple LED Circuit
 how an LED can be controlled by the Arduino
