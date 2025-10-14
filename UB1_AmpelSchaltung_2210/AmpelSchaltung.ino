@@ -1,6 +1,6 @@
 /*
    Sketching mit Hardware
-  DMP - Vertiefung Medieninformatik 2- WS24/25 - Sketching mit Hardware
+  DMP - Vertiefung Medieninformatik 2- WS2526 - Sketching mit Hardware
   - Ampel Schaltung -
   Marcos Martinez
 */
