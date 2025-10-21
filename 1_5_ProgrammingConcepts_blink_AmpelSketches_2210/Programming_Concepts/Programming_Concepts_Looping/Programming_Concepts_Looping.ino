@@ -1,6 +1,6 @@
 
 /*
-DMP - Sketching mit Hardware WS2425
+DMP - Sketching mit Hardware WS2526
 
 Programming Concepts - Arduino Basics
 Marcos Martinez
