@@ -1,5 +1,5 @@
 /*
-DMP - Sketching mit Hardware WS2425
+DMP - Sketching mit Hardware WS2526
 - Simple LED Switch Circuit
 This project demonstrates how a push  button switch can be used to turn an LED ON/OFF
   Marcos Martinez
