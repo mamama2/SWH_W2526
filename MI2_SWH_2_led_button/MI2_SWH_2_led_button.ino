@@ -6,9 +6,9 @@ This project demonstrates how a push  button switch can be used to turn an LED O
 */
 //Set the LED Pin constant globally
 //The LED is connected to Pin 10 of the Arduino
-#define LEDPin 9
+#define LEDPin 11
 //Connected to one pin of the switch
-#define ButtonPin 8
+#define ButtonPin 2
 // the setup function runs once when you press reset or power the board
 void setup() {
   Serial.begin(9600);
