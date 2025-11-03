@@ -1,10 +1,10 @@
 /*
    Sketching mit Hardware
-  DMP - SWH - WS2425
+  DMP - SWH - WS2526
   - Debounce a pushbutton. Termin 5
  
   This project demonstrates how to debounce a pushbutton and avoid unexpected results
-  by: Marcos Martinez
+ BIEKER-WALZ / MARTINEZ
 */
 /*
 #define BUTTON_PIN 2
