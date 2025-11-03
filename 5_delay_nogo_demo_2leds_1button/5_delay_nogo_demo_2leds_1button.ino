@@ -1,10 +1,10 @@
 /*
    Sketching mit Hardware
-  DMP - SWH - WS2425
+  DMP - SWH - WS2526
   - Using the delay() function. Termin 5
   This project illustrates the problem with the delay
   function on how it blocks our arduino. 2 Blinking LED + a pushbutton to change the state
-  Martinez
+  BIEKER-WALZ / MARTINEZ
 */
 int led1 = 6;
 int led2 = 7;
