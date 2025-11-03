@@ -1,12 +1,11 @@
 
 /*
    Sketching mit Hardware
-  DMP - Sketching mit Hardware - WS24_25
+  DMP - Sketching mit Hardware - WS2526
 - Simple LED Potentiometer Circuit
 This project demonstrates how to set the brightness of a LED with a 10K POTentiometer
 
-  Marcos Martinez
-*/
+BIEKER-WALZ / MARTINEZ*/
 
 //Set the LED Pin constant globally
 //The LED is connected to Pin 9 of the Arduino
