@@ -1,11 +1,11 @@
 
 /*
    Sketching mit Hardware
-  DMP - Sketching mit Hardware - WS24_25
+  DMP - Sketching mit Hardware - WS2526
 - Simple Sketch to find out the value of a Resistor(Widerstand)
 This project demonstrates how to set the brightness of a LED with a 10K POTentiometer
 
-by: Marcos Martinez
+BIEKER-WALZ / MARTINEZ
 */
 
 int analogPin= A1;
