@@ -1,11 +1,11 @@
 
 /*
    Sketching mit Hardware
-  DMP - SWH - WS2425
+  DMP - SWH - WS2526
   - Demo nodelay() Blink LED. Termin 5
   This project demonstrates how to avoid using the delay function
 
-  by: Marcos Martinez
+BIEKER-WALZ / MARTINEZ
 */
 const int ledPin =  6;
 int ledState = LOW;
