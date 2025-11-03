@@ -1,11 +1,11 @@
 
 /*
    Sketching mit Hardware
-  DMP - Sketching mit Hardware - WS24_25
+  DMP - Sketching mit Hardware - WS2526
   - Alarm anlage mit Fotowiderstand und Buzzer
   This project demonstrates how to activate an alarm (Buzzer) when light reaches a certain level
 
-  by: Marcos Martinez
+ BIEKER-WALZ / MARTINEZ
 */
 int FOTOZELLE = A0; // von 1 bis 10 Kohm ausprobieren 
 int LED = 7;
