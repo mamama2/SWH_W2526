@@ -4,7 +4,7 @@
   - IR Remote (Fernbedinung) DEMO - Üb 5
   This project demonstrates how to use a Remote and a IR-Sensor to
   control your Arduino
-  Wieker / Martinez
+  Wieker-Walz / Martinez
 */
 //Infromationen über das ursprüngliche Programm „IrrecvDemo“.
 
