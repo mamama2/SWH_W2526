@@ -1,11 +1,11 @@
  
 /*
    SKETCHING MIT HARDWARE
-     DMP - WS2425
+     DMP - WS2526
    DEMO 3: LCD Display 16x2 ohne I2c controller
   This project demonstrates the usage of the
   LCD Display
- Martinez
+  WIEKER-WALZ / MARTINEZ
 */
 
 #include <LiquidCrystal.h> // include the library code: !
