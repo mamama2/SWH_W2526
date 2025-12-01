@@ -1,10 +1,10 @@
 /*
   SKETCHING MIT HARDWARE
-     DMP - WS2425
+     DMP - WS2526
   - Demo 5 : LCD Display mit I2C Controller (One Wire)
   This project demonstrates how to measure distances
   using a ultrasonic sensor + LCD Display + I2C Controller
-  Martinez
+  WIEKER-WALZ / MARTINEZ
 */
 
 #include<Wire.h>
