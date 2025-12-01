@@ -1,10 +1,10 @@
 /*
    SKETCHING MIT HARDWARE
-     DMP - WS2425
+     DMP - WS2526
   - Einparkenhilfe mini-Projekt
   This project demonstrates how to measure distances
   using a ultrasonic sensor
-  Martinez
+   WIEKER-WALZ / MARTINEZ
 */
 
 # define LAUTSPRECHER 4
