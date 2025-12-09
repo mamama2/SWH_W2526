@@ -1,10 +1,11 @@
 /*
    Sketching mit Hardware
-  DMP - SWH - WS2425
+  DMP - SWH - WS2526
   - Basic Servo Demo + POT
   This project demonstrates how use a Servo Motor with a potentiometer
   
-  Martinez
+     WIEKER-WALZ / MARTINEZ
+
 */
 #include <Servo.h>  // add servo library
  
