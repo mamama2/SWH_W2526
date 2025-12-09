@@ -1,9 +1,10 @@
 /*
-   Sketching mit Hardware
-  DMP - SWH - WS2425
-  
-  -controlling a DC Motor wit a Joystick
- Martinez
+  SKETCHING MIT HARDWARE
+     DMP - WS2526
+  - Demo  : DC Motor + Joystick
+
+     WIEKER-WALZ / MARTINEZ
+
 */
 
 //Joystick Pins
