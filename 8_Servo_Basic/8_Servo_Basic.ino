@@ -1,10 +1,10 @@
 /*
-   Sketching mit Hardware
-  DMP - SWH - WS2425
+ SKETCHING MIT HARDWARE
+     DMP - WS2526
   - Basic Servo Demo
   This project demonstrates how use a Servo Motor
   
-  Martinez
+     WIEKER-WALZ / MARTINEZ
 */
 #include <Servo.h> //Die Servobibliothek wird aufgerufen. Sie wird benötigt, damit die Ansteuerung des Servos vereinfacht wird.
 
