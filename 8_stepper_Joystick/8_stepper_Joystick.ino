@@ -1,10 +1,10 @@
 /*
-   Sketching mit Hardware
-  DMP WS2425
+  SKETCHING MIT HARDWARE
+     DMP - WS2526
   - Stepper (28BYJ-48 mit ULN2003A Driver)
   This project demonstrates how to move a stepper motor with a joystick
   
-  Martinez
+     WIEKER-WALZ / MARTINEZ
 */
 
 #include <Stepper.h>
